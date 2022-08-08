@@ -14,3 +14,4 @@ Our main task is to apply Named-entity recognition(NER) to a given NEWS sentence
 
 ## How to use
 We have a GUI ready with trained nn. To predict the NER labels, just type in the text box and click predict button.
+![GUI DEMO](https://github.com/0wuxinyun/NER_AI_Project/blob/main/GUI_DEMO.png)
